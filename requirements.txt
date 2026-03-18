@@ -1,5 +1,6 @@
-streamlit
 PyPDF2
 python-docx
-requests
+fastapi
+streamlit
 python-dotenv
+requests
